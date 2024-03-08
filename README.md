@@ -1,4 +1,4 @@
-# How to Enjoy thr Dashboard #
+# How to Enjoy the Dashboard #
 
 ## Setup environment
   conda create --name main-ds python=3.9
